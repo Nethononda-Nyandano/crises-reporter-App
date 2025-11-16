@@ -64,19 +64,12 @@
 ## Screenshots
 
 
-| Landing | Login | Report Crisis | AI Suggestions | AI Suggestions |
-|---------|-------|---------------|----------------|----------------|
-| 
-<div style="display: flex; gap: 10px;">
-  <img src="./assets/landing.png" width="45%" />
-  <img src="./assets/landing1.png" width="45%" />
-</div>
-| <img src="./assets/login.png" width="100%" /> | <img src="./assets/add.png" width="100%" /> | <img src="./assets/ai-feed.png" width="100%" /> | <img src="./assets/ai-feed.png" width="100%" /> |
-
-| Community Feed | Report View | Map View | Commenting |
-|----------------|------------|----------|------------|
-| <img src="./assets/feed.png" width="100%" /> | <img src="./assets/Post.png" width="100%" /> | <img src="./crises-map/map.png" width="100%" /> | <img src="./assets/comment.png" width="100%" /> |
-
+|Landing| Login | Report Crisis | AI Suggestions | AI Suggestions | 
+|-------|-------|---------------|----------------|----------------| 
+|![report](./assets/landing.png)  | ![login](./assets/login.png) | ![report](./assets/add.png) | ![suggestions](./assets/ai-feed.png) | |
+Community Feed | Report View | Map View | Commenting | 
+|----------------|----------------|----------|------------| 
+| ![feed](./assets/feed.png) | ![suggestions](./assets/Post.png) | ![map](./crises-map/map.png) | ![comments](./assets/comment.png) |
 
 ---
 
