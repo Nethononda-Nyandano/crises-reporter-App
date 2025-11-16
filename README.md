@@ -65,13 +65,13 @@
 
 *(Replace placeholders with your actual screenshots in `/screenshots` folder)*
 
-| Login | Report Crisis | AI Suggestions |
-|-------|---------------|----------------|
-| ![login](./assets/login.png) | ![report](./assets/add.png) | ![suggestions](./assets/ai-feed.png) |
+|Landing| Login | Report Crisis | AI Suggestions | AI Suggestions |
+|-------|-------|---------------|----------------|----------------|
+| ![login](./assets/landing.png) ![login](./assets/landing1.png) | ![login](./assets/login.png) | ![report](./assets/add.png) | ![suggestions](./assets/ai-feed.png) |
 
-| Community Feed | Map View | Commenting |
-|----------------|----------|------------|
-| ![feed](./assets/feed.png) | ![map](./crises-map/map.png) | ![comments](./assets/comment.png) |
+| Community Feed | Report View | Map View | Commenting |
+|----------------|----------------|----------|------------|
+| ![feed](./assets/feed.png) | ![suggestions](./assets/Post.png) | ![map](./crises-map/map.png) | ![comments](./assets/comment.png) |
 
 ---
 
@@ -81,6 +81,7 @@
 ```bash
 git clone https://github.com/yourusername/community-crisis-mobile.git
 cd community-crisis-mobile
+
 
 
 
