@@ -1,6 +1,6 @@
 # AI-Powered Community Crisis Reporting Mobile App
 
-![Banner](./screenshots/banner.png)
+![Banner](./assets/banner.png)
 
 **AI-Powered Community Crisis App** is a **mobile application** that allows users to report, view, and engage with community crises in real-time.  
 
@@ -67,11 +67,11 @@
 
 | Login | Report Crisis | AI Suggestions |
 |-------|---------------|----------------|
-| ![login](./screenshots/login.png) | ![report](./screenshots/report.png) | ![suggestions](./screenshots/ai-suggestions.png) |
+| ![login](./assets/login.png) | ![report](./assets/report.png) | ![suggestions](./assetsts/ai.png) |
 
 | Community Feed | Map View | Commenting |
 |----------------|----------|------------|
-| ![feed](./screenshots/feed.png) | ![map](./screenshots/map.png) | ![comments](./screenshots/comments.png) |
+| ![feed](./assets/feed.png) | ![map](./crises-map/map.png) | ![comments](./assets/comments.png) |
 
 ---
 
@@ -81,4 +81,5 @@
 ```bash
 git clone https://github.com/yourusername/community-crisis-mobile.git
 cd community-crisis-mobile
+
 
