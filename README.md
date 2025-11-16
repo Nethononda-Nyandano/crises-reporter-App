@@ -63,19 +63,20 @@
 
 ## Screenshots
 
-*(Replace placeholders with your actual screenshots in `/screenshots` folder)*
 
-|Landing| Login | Report Crisis | AI Suggestions | AI Suggestions |
-|-------|-------|---------------|----------------|----------------|
-|<div style="display: flex; gap: 10px;">
+| Landing | Login | Report Crisis | AI Suggestions | AI Suggestions |
+|---------|-------|---------------|----------------|----------------|
+| 
+<div style="display: flex; gap: 10px;">
   <img src="./assets/landing.png" width="45%" />
   <img src="./assets/landing1.png" width="45%" />
 </div>
- | ![login](./assets/login.png) | ![report](./assets/add.png) | ![suggestions](./assets/ai-feed.png) |
+| <img src="./assets/login.png" width="100%" /> | <img src="./assets/add.png" width="100%" /> | <img src="./assets/ai-feed.png" width="100%" /> | <img src="./assets/ai-feed.png" width="100%" /> |
 
 | Community Feed | Report View | Map View | Commenting |
-|----------------|----------------|----------|------------|
-| ![feed](./assets/feed.png) | ![suggestions](./assets/Post.png) | ![map](./crises-map/map.png) | ![comments](./assets/comment.png) |
+|----------------|------------|----------|------------|
+| <img src="./assets/feed.png" width="100%" /> | <img src="./assets/Post.png" width="100%" /> | <img src="./crises-map/map.png" width="100%" /> | <img src="./assets/comment.png" width="100%" /> |
+
 
 ---
 
@@ -85,6 +86,7 @@
 ```bash
 git clone https://github.com/yourusername/community-crisis-mobile.git
 cd community-crisis-mobile
+
 
 
 
