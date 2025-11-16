@@ -1,6 +1,6 @@
 # AI-Powered Community Crisis Reporting Mobile App
 
-![Banner](./assets/banner.png)
+![Banner](./assets/banner.png)    ![report](./assets/landing.png)    ![report](./assets/landing1.png)  
 
 **AI-Powered Community Crisis App** is a **mobile application** that allows users to report, view, and engage with community crises in real-time.  
 
@@ -64,12 +64,12 @@
 ## Screenshots
 
 
-|Landing| Login | Report Crisis | AI Suggestions | AI Suggestions | 
-|-------|-------|---------------|----------------|----------------| 
-|![report](./assets/landing.png)  | ![login](./assets/login.png) | ![report](./assets/add.png) | ![suggestions](./assets/ai-feed.png) | 
+| Login | Report Crisis | AI Suggestions | 
+|--------------|---------------|----------------|
+ ![login](./assets/login.png) | ![report](./assets/add.png) | ![suggestions](./assets/ai-feed.png) | 
 |Community Feed  | Report View    | Map View | Commenting | 
 |----------------|----------------|----------|------------| 
-| ![feed](./assets/feed.png) | ![suggestions](./assets/Post.png) | ![map](./crises-map/map.png) | ![comments](./assets/comment.png) |
+| ![feed](./assets/feed.png) | ![suggestions](./assets/Post.png) | ![map](./assets/crises-map/map.png) | ![comments](./assets/comment.png) |
 
 ---
 
@@ -79,6 +79,7 @@
 ```bash
 git clone https://github.com/yourusername/community-crisis-mobile.git
 cd community-crisis-mobile
+
 
 
 
