@@ -66,8 +66,8 @@
 
 |Landing| Login | Report Crisis | AI Suggestions | AI Suggestions | 
 |-------|-------|---------------|----------------|----------------| 
-|![report](./assets/landing.png)  | ![login](./assets/login.png) | ![report](./assets/add.png) | ![suggestions](./assets/ai-feed.png) | |
-Community Feed | Report View | Map View | Commenting | 
+|![report](./assets/landing.png)  | ![login](./assets/login.png) | ![report](./assets/add.png) | ![suggestions](./assets/ai-feed.png) | 
+|Community Feed  | Report View    | Map View | Commenting | 
 |----------------|----------------|----------|------------| 
 | ![feed](./assets/feed.png) | ![suggestions](./assets/Post.png) | ![map](./crises-map/map.png) | ![comments](./assets/comment.png) |
 
@@ -79,6 +79,7 @@ Community Feed | Report View | Map View | Commenting |
 ```bash
 git clone https://github.com/yourusername/community-crisis-mobile.git
 cd community-crisis-mobile
+
 
 
 
