@@ -1,9 +1,9 @@
 # AI-Powered Community Crisis Reporting Mobile App
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-  <img src="./assets/banner.png" width="30%" />
-  <img src="./assets/landing.png" width="30%" />
-  <img src="./assets/landing1.png" width="30%" />
+  <img src="./assets/banner.png" width="30%" style="margin:2px;"/>
+  <img src="./assets/landing.png" width="30%" style="margin:2px;" />
+  <img src="./assets/landing1.png" width="30%" style="margin:2px;" />
 </div>
 
 
@@ -140,6 +140,7 @@ Full-Stack Developer
 
 I am a passionate developer focused on building practical solutions for real-world problems.
 This project helps communities report, track, and respond to crises efficiently using a mobile interface connected to a backend API, with AI-powered suggestions and classification provided by OpenAI.
+
 
 
 
