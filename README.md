@@ -1,12 +1,11 @@
 # AI-Powered Community Crisis Reporting Mobile App
 
-![Banner](./assets/banner.png)    ![report](./assets/landing.png)    ![report](./assets/landing1.png)  
-<div style="display:flex, width:80%">
-    <img src="./assets/banner.png" width="auto" height="auto">
-    <img src="./assets/landing.png" width="auto" height="auto">
-    <img src="./assets/landing1.png" width="auto" height="auto">
-  
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <img src="./assets/banner.png" width="30%" />
+  <img src="./assets/landing.png" width="30%" />
+  <img src="./assets/landing1.png" width="30%" />
 </div>
+
 
 **AI-Powered Community Crisis App** is a **mobile application** that allows users to report, view, and engage with community crises in real-time.  
 
@@ -42,11 +41,6 @@
 - **Map Visualization:** All reported crises are displayed on a map with severity-based markers. Users and officials can quickly see locations and assess situations.  
 - **AI Classification:** Reports are automatically categorized into Infrastructure, Safety, Health, or Utilities using **OpenAI**.  
 
-### Official Features
-- **Map Dashboard:** View all crises with location markers.  
-- **Filter & Prioritize:** Sort incidents by type, severity, or time.  
-- **Route Planning:** Generate shortest, fastest, or alternative routes to incidents.  
-- **Update Status:** Mark incidents as In Progress, Resolved, or Dismissed.  
 
 ---
 
@@ -85,6 +79,67 @@
 ```bash
 git clone https://github.com/yourusername/community-crisis-mobile.git
 cd community-crisis-mobile
+```
+
+### 2. Install dependencies
+```bash
+npm install
+```
+### 3. Configure API
+
+Update your backend API URL and OpenAI key in a .env file or config file:
+
+API_URL=https://your-backend-repo-url/api
+OPENAI_API_KEY=your_openai_api_key
+
+### 4. Run the app
+```bash
+npx react-native run-android   # for Android
+npx react-native run-ios       # for iOS
+```
+Make sure your backend server is running and accessible by the mobile app.
+
+---
+## AI Components (Powered by OpenAI)
+
+- Real-Time Suggestions: For each crisis report, AI suggests what users can do immediately to mitigate or respond.
+
+- AI Classification: Automatically categorizes reports into Infrastructure, Safety, Health, or Utilities.
+
+- Sentiment Analysis: Optional feature to analyze comments for community sentiment and concern.
+
+---
+
+## Future Enhancements
+
+- Real-time push notifications for new crisis reports
+
+- Mobile offline support
+
+- Multi-language support
+
+- Integration with emergency services for automated alerts
+
+----
+# Author
+
+### Nethononda Nyandano
+Full-Stack Developer
+
+- GitHub: https://github.com/Nethononda-Nyandano
+
+- Email: nyandanonethononda8@gmail.com
+
+- Location: South Africa
+
+- Portfolio:
+
+----
+
+# About Me
+
+I am a passionate developer focused on building practical solutions for real-world problems.
+This project helps communities report, track, and respond to crises efficiently using a mobile interface connected to a backend API, with AI-powered suggestions and classification provided by OpenAI.
 
 
 
