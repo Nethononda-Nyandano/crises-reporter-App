@@ -7,7 +7,7 @@
 - **Frontend:** React Native (TypeScript + CSS)  
 - **Backend:** PHP (separate repository)  
 - **API Calls:** Fetch API  
-- **AI:** OpenAI for classification and insights  
+- **AI:** OpenAI for personalized suggestions and classification  
 - **Database:** MySQL (handled in backend)  
 
 > Note: The backend is maintained in a separate GitHub repository. Make sure to connect the mobile app to the backend API.
@@ -29,11 +29,18 @@
 ## Features
 
 ### User Features
-- **Report a Crisis:** Submit incidents with title, description, severity, and location.
-- **Community Feed:** View all reported crises from other users.
-- **Comment on Reports:** Engage with posts to provide suggestions or ask questions.
-- **Map Visualization:** See crises on a map with severity-based markers.
-- **AI Classification:** Reports are automatically categorized into Infrastructure, Safety, Health, or Utilities using **OpenAI**.
+- **Report a Crisis:** Submit incidents with title, description, severity, and location.  
+- **AI Suggestions:** For every report, the app provides **real-time AI recommendations** on what actions users can take immediately.  
+- **Community Feed:** View all reported crises from other users.  
+- **Comment on Reports:** Engage with posts to provide suggestions or ask questions.  
+- **Map Visualization:** All reported crises are displayed on a map with severity-based markers. Users and officials can quickly see locations and assess situations.  
+- **AI Classification:** Reports are automatically categorized into Infrastructure, Safety, Health, or Utilities using **OpenAI**.  
+
+### Official Features
+- **Map Dashboard:** View all crises with location markers.  
+- **Filter & Prioritize:** Sort incidents by type, severity, or time.  
+- **Route Planning:** Generate shortest, fastest, or alternative routes to incidents.  
+- **Update Status:** Mark incidents as In Progress, Resolved, or Dismissed.  
 
 ---
 
@@ -56,15 +63,15 @@
 
 ## Screenshots
 
+*(Replace placeholders with your actual screenshots in `/screenshots` folder)*
 
-
-| Login | Report Crisis | Community Feed |
+| Login | Report Crisis | AI Suggestions |
 |-------|---------------|----------------|
-| ![login](./screenshots/login.png) | ![report](./screenshots/report.png) | ![feed](./screenshots/feed.png) |
+| ![login](./screenshots/login.png) | ![report](./screenshots/report.png) | ![suggestions](./screenshots/ai-suggestions.png) |
 
-| Map View | Commenting | AI Classification |
-|----------|------------|-----------------|
-| ![map](./screenshots/map.png) | ![comments](./screenshots/comments.png) | ![classification](./screenshots/classification.png) |
+| Community Feed | Map View | Commenting |
+|----------------|----------|------------|
+| ![feed](./screenshots/feed.png) | ![map](./screenshots/map.png) | ![comments](./screenshots/comments.png) |
 
 ---
 
