@@ -77,7 +77,7 @@
 
 ### 1. Clone the frontend repository
 ```bash
-git clone https://github.com/yourusername/community-crisis-mobile.git
+git clone https://github.com/Nethononda-Nyandano/community-crisis-mobile.git
 cd community-crisis-mobile
 ```
 
@@ -140,6 +140,7 @@ Full-Stack Developer
 
 I am a passionate developer focused on building practical solutions for real-world problems.
 This project helps communities report, track, and respond to crises efficiently using a mobile interface connected to a backend API, with AI-powered suggestions and classification provided by OpenAI.
+
 
 
 
